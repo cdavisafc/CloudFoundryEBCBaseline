@@ -1,0 +1,15 @@
+{
+  "title": "Cloud Foundry EBC Baseline Preso",
+  "options":
+  {
+    "slideNumber": true,
+    "enableAudio": true
+  },
+  "slides": [
+    "title.md",
+    "intro/increasingExpectations.md",
+    "intro/opsSauce.md",
+    "intro/aThirdPlatform.md"
+
+  ]
+}
